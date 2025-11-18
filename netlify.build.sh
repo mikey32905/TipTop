@@ -10,7 +10,7 @@ wget https://dot.net/v1/dotnet-install.sh
 # Make the script executable
 chmod u+x /tmp/dotnet-install.sh
 
-/tmp/dotnet-install.sh --channel 8.0
+/tmp/dotnet-install.sh --channel 9.0
 
 # Return to project directory
 popd
