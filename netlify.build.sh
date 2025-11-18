@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env bash
+﻿﻿#!/usr/bin/env bash
 set -e
 
 # Change into a temporary directory so we can download + install .NET
